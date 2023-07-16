@@ -6,7 +6,12 @@
     transform: translate(-50%,-50%);
     color: rgb(255, 255, 255);
 }
-
+.textComment {
+    background-color: black;
+    color:#ffce54;
+    padding: 20px;
+    opacity: 0.7;
+}
 #backgroundBody {
     background-repeat: no-repeat;
     background-attachment: fixed;
